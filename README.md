@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Atharv Tripathi 👋
 
-<!--
-**Atharv92345/Atharv92345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Maulana Azad National Institute of Technology Bhopal B.Tech student in CSE, 2024-28
 
-Here are some ideas to get you started:
+I'm passionate about learning new technologies and building practical software projects. I enjoy solving problems, exploring software development, and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Data Structures & Algorithms
+- Web Development
+💻 Tech Stack
+- C
+- C++
+- Basic Python
+- HTML
+- Basic CSS
+📌 Current Focus
+- Building personal and academic projects
+- Strengthening problem-solving skills
+📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/atharv-tripathi-62056b323/
+Email: atharv22531@gmail.com
